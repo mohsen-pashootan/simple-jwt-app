@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Before Use => 
+  you have to download and use of this repo as a backend to send and recieve requests :
+  <a href="https://github.com/mohsen-pashootan/simple-auth-server">simple-auth-server</a>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
